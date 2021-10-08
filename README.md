@@ -4,4 +4,4 @@
 - 📫 How to reach me:
 
  - VK: vk.com/soulezz
- - Discord: _souless_#3542
+ - Discord: soul_S#3542
