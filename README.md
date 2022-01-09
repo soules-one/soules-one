@@ -5,3 +5,4 @@
 
  - VK: vk.com/soulezz
  - Discord: soul_S#3542
+ - Twitter: https://twitter.com/soules_one
