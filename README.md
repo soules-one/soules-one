@@ -1,6 +1,6 @@
 #Hi, I am so
 ## About me
-Born and live in Russia 🇷🇺
+Born and live in Russia
 
 I’m currently learning programming on Python.
 
