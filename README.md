@@ -11,5 +11,5 @@ I’m looking to collaborate on Python project, but I'm noob programmer :b
 ## How to reach me:
 * GitHub: https://github.com/soules-one/
 * VK: https://vk.com/soulezz
-* Discord: soul_S#3542
+* Discord: soules-one#3542
 * Twitter: https://twitter.com/soules_one
