@@ -6,7 +6,7 @@ I’m currently learning programming on Python.
 
 I’m looking to collaborate on Python project, but I'm noob programmer :b
 ## My latest projects:
-* [EncypherUtil](https://soules-one.github.io/EncypherUtil/)
+* [None](_)
 
 ## How to reach me:
 * [GitHub](https://github.com/soules-one/)
