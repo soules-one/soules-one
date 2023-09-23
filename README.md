@@ -2,7 +2,7 @@
 ## About me
 Born and live in Russia
 
-I’m currently learning programming on Python.
+I’m currently learning programming on Python and C++.
 
 I’m looking to collaborate on Python project, but I'm noob programmer :b
 ## My latest projects:
