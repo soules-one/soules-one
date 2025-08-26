@@ -11,5 +11,6 @@ I’m looking to collaborate on some project, but I'm noob programmer :b
 ## How to reach me:
 * [GitHub](https://github.com/soules-one/)
 * [VK](https://vk.com/soulezz)
-* Discord: soules-one#3542
-* [Twitter](https://twitter.com/soules_one): No longer used
+* [TG] (https://t.me/soul_S_one)
+ 
+
