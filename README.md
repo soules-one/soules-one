@@ -2,9 +2,9 @@
 ## About me
 Born and live in Russia
 
-I’m currently learning programming on Python and C++.
+I’m currently learning programming on C and Golang.
 
-I’m looking to collaborate on Python project, but I'm noob programmer :b
+I’m looking to collaborate on some project, but I'm noob programmer :b
 ## My latest projects:
 * [None](_)
 
