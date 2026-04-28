@@ -1,12 +1,10 @@
 # Hi, I am @soules-one
 ## About me
-Born and live in Russia
+Live in Russia
 
-I’m currently learning programming on C and Golang.
+I’m currently learning and practicing programming on C and Golang.
 
-I’m looking to collaborate on some project, but I'm noob programmer :b
-## My latest projects:
-* [None](_)
+I’m looking to collaborate on some project.
 
 ## How to reach me:
 * [GitHub](https://github.com/soules-one/)
